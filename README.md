@@ -1,1 +1,1 @@
-# tonnconect-manifest
+# tonconnect-manifest
